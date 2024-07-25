@@ -1,0 +1,21 @@
+{
+    "name": "ionhax/guvi",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ionhax\\Guvi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IONHAX04",
+            "email": "thirukumara04@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap-icons": "^1.11",
+        "twbs/bootstrap": "5.0.2",
+        "predis/predis": "^1.1",
+        "mongodb/mongodb": "^1.19"
+    }
+}
